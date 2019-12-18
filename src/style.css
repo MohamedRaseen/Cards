@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+  text-align: center;
+}
+.form-footer{
+  margin-top: 28px;
+}
+.card{
+  margin: 10px;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
